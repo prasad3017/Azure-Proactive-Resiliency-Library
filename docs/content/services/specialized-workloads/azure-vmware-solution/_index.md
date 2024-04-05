@@ -23,7 +23,7 @@ The presented resiliency recommendations in this guidance include Azure VMware S
 |[AVS-7 Monitor when Azure VMware Solution Cluster Size is approaching the host limit](#avs-7---monitor-when-azure-vmware-solution-cluster-size-is-approaching-the-host-limit) | Monitoring | Medium | Verified | No |
 |[AVS-8 Monitor when Azure VMware Solution Private Cloud is reaching capacity limit](#avs-8---monitor-when-azure-vmware-solution-private-cloud-is-reaching-capacity-limit) | Monitoring | Medium | Verified | No |
 |[AVS-9 Apply Resource delete lock on the resource group hosting the private cloud](#avs-9---apply-resource-delete-lock-on-the-resource-group-hosting-the-private-cloud) | Governance | High | Verified | No |
-
+ 
 {{< /table >}}
 
 {{< alert style="info" >}}
