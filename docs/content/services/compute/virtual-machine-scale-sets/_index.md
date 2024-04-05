@@ -274,7 +274,7 @@ Enabling automatic VM guest patching for your Azure VMs helps ease update manage
 
 **Guidance**
 
-Ensure the publisher continues to support the OS image avoid disruption or security gaps. Please review the publisher, offer, sku information of the VM to ensure you are running on a supported image. Please enable Auto Guest Patching or Image Upgrades, to get notifications about image deprecation
+Ensure the publisher continues to support the OS image avoid disruption or security gaps. Please review the publisher, offer, and sku information of the VM to ensure you are running on a supported image. Please enable automatic guest patching or automatic OS image upgrades to get notifications about image deprecation.
 
 **Resources**
 
